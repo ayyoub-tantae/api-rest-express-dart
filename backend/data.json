@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "id": 1
+    },
+    {
+      "name": "Smartphone",
+      "price": 499.5,
+      "id": 2
+    },
+    {
+      "name": "Écouteurs",
+      "price": 79.99,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "product": "Laptop",
+      "quantity": 1,
+      "id": 1,
+      "date": "2025-04-03T11:46:02.804Z"
+    },
+    {
+      "product": "Smartphone",
+      "quantity": 2,
+      "id": 2,
+      "date": "2025-04-03T11:46:02.809Z"
+    },
+    {
+      "product": "Écouteurs",
+      "quantity": 3,
+      "id": 3,
+      "date": "2025-04-03T11:46:02.814Z"
+    }
+  ]
+}
